@@ -9,5 +9,5 @@ for i in range(10):  # 0~9
 print('lst : ', lst)  #난수 출력
 
 #list에 자료 참조하기
-for i in range(10):
+for i in range(10): #0~9
     print(lst[i] * 0.25)  #난수 * 0.25
