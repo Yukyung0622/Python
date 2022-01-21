@@ -1,6 +1,6 @@
-i = int(input())
+a,b = map(int,input().split(" "))
+c = list(map(int,input().split(" ")))
 
-for i in range(1,10):
-    for j in range(1,10):
-
-        print('{} * {} = {}'.format(i,j,i*j))
+for i in range(a):
+    if b > c[i]:
+        print(c[i], end=" ")
