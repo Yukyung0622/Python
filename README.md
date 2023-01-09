@@ -1,8 +1,8 @@
 # Python
-## Ch01. HelloWorld 실습
----
-## Ch02. python 기본문법
-1. 파이썬 변수 실습하기 교재 p34
+## Study
+* Ch01. HelloWorld 실습
+* Ch02. python 기본문법
+  - 파이썬 변수 실습하기 교재 p34
 2. 파이썬 자료형 (Data Type) 실습하기 교재 p37
 3. 파이썬 연산자 실습하기 교재 p38
 4. 파이썬 기본 입출력 실습하기 교재 p42
