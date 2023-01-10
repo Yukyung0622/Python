@@ -1,4 +1,4 @@
-# Python
+# Python <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 ### Study
 * Ch01. HelloWorld 실습
 * Ch02. python 기본문법
