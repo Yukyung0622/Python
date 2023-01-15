@@ -1,32 +1,18 @@
 # Python <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 ### Study
-* Ch01. HelloWorld 실습
+* Ch01. HelloWorld
 * Ch02. python 기본문법
-  - 파이썬 변수 실습
-  - 파이썬 자료형 (Data Type) 실습
-  - 파이썬 연산자 실습
-  - 파이썬 기본 입출력 실습
-  - 파이썬 문자열 실습
+  - 변수, 자료형 (Data Type), 연산자, 입출력, 문자열
 * Ch03. python 제어문
-  - 파이썬 조건문 if 실습
-  - 파이썬 반복문 while 실습
-  - 파이썬 반복문 for 실습
+  - 조건문 if, 반복문 while, for 실습
 * Ch04. python 자료구조
-  - 파이썬 자료구조 Dictionary 실습
-  - 파이썬 자료구조 List 실습
-  - 파이썬 자료구조 Tuple 실습
-  - 파이썬 자료구조 Set 실습
+  - 자료구조 Dictionary, List, Tuple, Set
 * Ch05. python 함수
-  - 파이썬 함수 실습
-  - 파이썬 함수 고급 실습
-  - 파이썬 함수 내장함수 실습
-  - 파이썬 함수 리스트함수 실습
+  - 함수, 함수 고급, 내장함수, 리스트함수
 * Ch06. python 클래스
-  - 파이썬 클래스 학습
-  - 파이썬 패키지와 모듈 실습
+  - 클래스 학습, 패키지와 모듈
 * Ch07. python 예외처리
-  - 파이썬 예외처리 실습
-  - 파이썬 파일 입출력 실습
+  - 예외처리, 파일 입출력
 ### Lesson
 * Ch01. Python
   - HelloWorld
