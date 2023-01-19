@@ -1,4 +1,4 @@
-word = input().split()
-print(len(word))
+# word = input().split()
+# print(len(word))
 
 print(len(input().split()))
