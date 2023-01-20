@@ -6,3 +6,7 @@ if num1 > num2:
     print(num1)
 else :
     print(num2)
+
+
+#삼항연산자 표현식
+# print(num1) if num1 > num2 else print(num2)
