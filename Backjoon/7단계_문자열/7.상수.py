@@ -8,5 +8,5 @@ else :
     print(num2)
 
 
-#삼항연산자 표현식
+#삼항연산자
 # print(num1) if num1 > num2 else print(num2)
